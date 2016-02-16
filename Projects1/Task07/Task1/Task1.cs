@@ -21,7 +21,7 @@ namespace Task1
                 array[i] = Console.ReadLine();
             }
             Console.WriteLine("\nДо сортировки:");
-            foreach (string word in array)
+            foreach (string word in array)  
             {
                 Console.Write(word + " ");
             }
